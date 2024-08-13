@@ -12,4 +12,4 @@ This project doesn't necessarily need Zydis, but:
 
 ## Credits
 
-[https://github.com/zyantific/zydis/](Zydis)
+[Zydis](https://github.com/zyantific/zydis/)
