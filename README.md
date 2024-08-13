@@ -2,7 +2,7 @@
 
 This project hooks KiUserDispatchException, the initial usermode exception dispatcher called from the kernel, by hooking Wow64PrepareForException, a function pointer stored in ntdll's .mrdata section.
 
-![KiUserDispatchException](/Resources/KiUserDispatchException.png)
+![KiUserDispatchException](/Resources/KiUserDispatchException.PNG)
 
 ## Notes
 
