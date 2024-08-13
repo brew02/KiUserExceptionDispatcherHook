@@ -1,7 +1,5 @@
 #include <Windows.h>
-#include <vector>
 #include <stdio.h>
-#include <intrin.h>
 
 #include "Disassembler.h"
 #include "Syscalls.h"
